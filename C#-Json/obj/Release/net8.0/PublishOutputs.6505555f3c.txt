@@ -1,0 +1,6 @@
+C:\Users\emanu\source\repos\C#-Json\C#-Json.exe
+C:\Users\emanu\source\repos\C#-Json\C#-Json.dll
+C:\Users\emanu\source\repos\C#-Json\C#-Json.deps.json
+C:\Users\emanu\source\repos\C#-Json\C#-Json.runtimeconfig.json
+C:\Users\emanu\source\repos\C#-Json\C#-Json.pdb
+C:\Users\emanu\source\repos\C#-Json\Newtonsoft.Json.dll

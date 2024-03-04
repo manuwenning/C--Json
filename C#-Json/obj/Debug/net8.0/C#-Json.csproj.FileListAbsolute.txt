@@ -1,0 +1,17 @@
+C:\Users\emanu\source\repos\C#-Json\C#-Json\bin\Debug\net8.0\C#-Json.exe
+C:\Users\emanu\source\repos\C#-Json\C#-Json\bin\Debug\net8.0\C#-Json.deps.json
+C:\Users\emanu\source\repos\C#-Json\C#-Json\bin\Debug\net8.0\C#-Json.runtimeconfig.json
+C:\Users\emanu\source\repos\C#-Json\C#-Json\bin\Debug\net8.0\C#-Json.dll
+C:\Users\emanu\source\repos\C#-Json\C#-Json\bin\Debug\net8.0\C#-Json.pdb
+C:\Users\emanu\source\repos\C#-Json\C#-Json\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\emanu\source\repos\C#-Json\C#-Json\obj\Debug\net8.0\C#-Json.csproj.AssemblyReference.cache
+C:\Users\emanu\source\repos\C#-Json\C#-Json\obj\Debug\net8.0\C#-Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\source\repos\C#-Json\C#-Json\obj\Debug\net8.0\C#-Json.AssemblyInfoInputs.cache
+C:\Users\emanu\source\repos\C#-Json\C#-Json\obj\Debug\net8.0\C#-Json.AssemblyInfo.cs
+C:\Users\emanu\source\repos\C#-Json\C#-Json\obj\Debug\net8.0\C#-Json.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\C#-Json\C#-Json\obj\Debug\net8.0\C#-Json.csproj.Up2Date
+C:\Users\emanu\source\repos\C#-Json\C#-Json\obj\Debug\net8.0\C#-Json.dll
+C:\Users\emanu\source\repos\C#-Json\C#-Json\obj\Debug\net8.0\refint\C#-Json.dll
+C:\Users\emanu\source\repos\C#-Json\C#-Json\obj\Debug\net8.0\C#-Json.pdb
+C:\Users\emanu\source\repos\C#-Json\C#-Json\obj\Debug\net8.0\C#-Json.genruntimeconfig.cache
+C:\Users\emanu\source\repos\C#-Json\C#-Json\obj\Debug\net8.0\ref\C#-Json.dll
